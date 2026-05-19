@@ -30,7 +30,7 @@ and UI into distinct layers.
 - `ExpenseManagerApp` — Tkinter UI layer, calls service methods only
 
 ## UML Diagram
-📄 [UML Diagram](uml.png)
+📄 [UML Diagram](UML.png)
 
 ##Documentation
 
