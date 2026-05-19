@@ -33,4 +33,5 @@ and UI into distinct layers.
 📄 [UML Diagram](UML.png)
 
 ##Documentation
+📄 [Full documentation & user manual](UML_UserManual_Unittest.pdf)
 
