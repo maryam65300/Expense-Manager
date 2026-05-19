@@ -28,5 +28,9 @@ and UI into distinct layers.
 - `BudgetService` — handles all business logic (CRUD, budget tracking, 
   category totals)
 - `ExpenseManagerApp` — Tkinter UI layer, calls service methods only
-## Documentation
-📄 [UML Diagram & User Manual](docs.pdf)
+
+## UML Diagram
+📄 [UML Diagram](uml.png)
+
+##Documentation
+
